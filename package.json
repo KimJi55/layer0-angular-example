@@ -52,7 +52,7 @@
     "@angular/cli": "~11.2.2",
     "@angular/compiler-cli": "~11.2.3",
     "@layer0/angular": "^3.6.0",
-    "@layer0/cli": "^3.6.0",
+    "@layer0/cli": "^4.19.8",
     "@layer0/core": "^3.6.0",
     "@layer0/devtools": "^3.6.0",
     "@layer0/prefetch": "^3.6.0",
